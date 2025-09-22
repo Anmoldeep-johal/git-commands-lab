@@ -1,2 +1,2 @@
-# Git Commands Lab
-- init, add, commit, push
+# Git Commands Lab 
+- init, add, commit, push 
